@@ -1,0 +1,22 @@
+
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+	color: #534952;
+}
+
+.full {
+  background-image: url(../img/Jessicawallpaper.png); no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar-inverse  {
+background-color: #534952;
+border-color: #534952;
+
+}
